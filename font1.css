@@ -1,0 +1,4 @@
+   @font-face {
+    font-family: 'Inky'; /* Имя шрифта */
+    src: url('InkyThinPixels.otf') format('truetype'); /* Путь к файлу со шрифтом */
+   }
